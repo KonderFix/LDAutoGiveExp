@@ -1,0 +1,7 @@
+name: LDAutoGiveExp
+author: [ ConderFix ]
+description: Плагин на авто выдачу опыта при первым заходе
+website: vk.com/conderfix
+version: 1.0
+main: me.leddev.autogiveexp.Main
+api-version: '1.16'
